@@ -1,0 +1,5 @@
+# ignore mac system files
+.DS_store
+
+# ignore API key
+config.js
